@@ -1,0 +1,10 @@
+# ninja log v6
+22	60	7850224323614183	CMakeFiles/h2a.dir/car.cpp.obj	b367af3c2a5bcada
+16	61	7850246898990659	CMakeFiles/h2a.dir/rectangle.cpp.obj	9d29aa8829001425
+12	315	7850246898939140	CMakeFiles/h2a.dir/main.cpp.obj	461664ad7f33a9be
+315	400	7850246901975288	h2a.exe	2452ba429cba8d47
+12	421	7850260464205864	CMakeFiles/h2a.dir/main.cpp.obj	461664ad7f33a9be
+4	322	7850262191328775	CMakeFiles/h2a.dir/student.cpp.obj	e39d1613be5966b5
+8	353	7850269672586357	CMakeFiles/h2a.dir/student.cpp.obj	e39d1613be5966b5
+4	385	7850269672549287	CMakeFiles/h2a.dir/main.cpp.obj	461664ad7f33a9be
+386	473	7850269676360945	h2a.exe	1ffa7ed0c491df47

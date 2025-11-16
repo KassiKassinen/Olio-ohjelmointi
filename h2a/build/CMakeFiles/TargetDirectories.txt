@@ -1,0 +1,7 @@
+C:/Users/aleks/OneDrive - University of Oulu and Oamk/Koulujutut/OneDrive - University of Oulu and Oamk/Koulujutut/QT/h2a/build/CMakeFiles/h2a.dir
+C:/Users/aleks/OneDrive - University of Oulu and Oamk/Koulujutut/OneDrive - University of Oulu and Oamk/Koulujutut/QT/h2a/build/CMakeFiles/edit_cache.dir
+C:/Users/aleks/OneDrive - University of Oulu and Oamk/Koulujutut/OneDrive - University of Oulu and Oamk/Koulujutut/QT/h2a/build/CMakeFiles/rebuild_cache.dir
+C:/Users/aleks/OneDrive - University of Oulu and Oamk/Koulujutut/OneDrive - University of Oulu and Oamk/Koulujutut/QT/h2a/build/CMakeFiles/list_install_components.dir
+C:/Users/aleks/OneDrive - University of Oulu and Oamk/Koulujutut/OneDrive - University of Oulu and Oamk/Koulujutut/QT/h2a/build/CMakeFiles/install.dir
+C:/Users/aleks/OneDrive - University of Oulu and Oamk/Koulujutut/OneDrive - University of Oulu and Oamk/Koulujutut/QT/h2a/build/CMakeFiles/install/local.dir
+C:/Users/aleks/OneDrive - University of Oulu and Oamk/Koulujutut/OneDrive - University of Oulu and Oamk/Koulujutut/QT/h2a/build/CMakeFiles/install/strip.dir
